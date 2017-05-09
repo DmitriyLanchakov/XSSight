@@ -2,6 +2,13 @@
 
 XSSight is an XSS Scanner and Payload Injector.
 
+XSSight is a mod of XSSYA and currently supports Python2.7 only.
+XssYa : https://github.com/yehia-mamdouh/XSSYA
+Author : Yehia Mamdouh
+
+### Installing Required Modules ###
+root@kali:~# pip install -r /root/XSSight/requirements.txt
+
 ## Usages
 
 ##### Scanning for payload
